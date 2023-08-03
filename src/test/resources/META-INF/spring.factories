@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.\
+    vilatech.config.TestContainersSpringContextCustomizerFactory,com.kosasih.\
+    vilatech.config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.\
+    vilatech.config.KafkaTestContainersSpringContextCustomizerFactory
